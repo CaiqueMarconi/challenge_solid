@@ -8,7 +8,7 @@
 PRODUCT_NAME = challenge_solid
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.challengeSolid
+PRODUCT_BUNDLE_IDENTIFIER = challengesolid.challengeSolid
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 .challenge_solid. All rights reserved.
